@@ -29,3 +29,4 @@ Emphasis, aka italics, with *asterisks* or _underscores_.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+[Google](https://www.google.com)
